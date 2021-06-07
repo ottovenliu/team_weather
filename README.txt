@@ -1,5 +1,15 @@
-Becky-->網頁主視覺設計
-Otto-->HOST,Webonline,RWD
+Becky-->網頁主視覺設計,切版,CSS
+Raiybow-->JS(...),切版
+Sandy-->JS(...),
+Otto-->HOST,Webonline,RWD,JS(...)
+
+儲存版本格式<--
+"WeatherForU_0607.0.0.0"
+    -->"WeatherForU"：專案名稱
+    -->"0607"       : 提案日期
+    -->"0.0.0"      : 完成版本(目前為0,老師OK後為1),階段開發版本(某工作區塊完成),細微修改內容
+
+
 
 可開發項目
 --縣市總計雨量
