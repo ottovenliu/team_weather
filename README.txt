@@ -1,7 +1,7 @@
 Becky-->網頁主視覺設計,切版,CSS
-Otto-->HOST,Webonline,RWD,JS(...)
 Raiybow-->JS(...),切版
 Sandy-->JS(...),
+Otto-->HOST,Webonline,RWD,JS(...)
 
 儲存版本格式<--
 "WeatherForU_0607.0.0.0"
